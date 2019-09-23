@@ -1,0 +1,4 @@
+Hello,
+Welcome to my reading program.
+It doesn't matter what .txt file you put here,
+the program will print it for you!

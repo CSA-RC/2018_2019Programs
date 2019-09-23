@@ -1,0 +1,41 @@
+Type of loan: None 
+Name:  
+Age: Type of loan: None 
+Name:  
+Age: Type of loan: None 
+Name:  
+Age: Type of loan: None 
+Name:  
+Age: Type of loan: None 
+Name: SDVDAFB 
+Age: 2234Type of loan: None 
+Name:  
+Age: Type of loan: None 
+Name:  
+Age: 
+
+
+
+Type of loan: Car 
+Name: Ryan 
+Age: 16
+
+Type of loan: House 
+Name:  
+Age: 
+
+Type of loan: None 
+Name:  
+Age: 
+
+Type of loan: None 
+Name:  
+Age: 
+
+Type of loan: Personal 
+Name: fwsref 
+Age: 213
+
+Type of loan: House 
+Name: xfjkc 
+Age: 5

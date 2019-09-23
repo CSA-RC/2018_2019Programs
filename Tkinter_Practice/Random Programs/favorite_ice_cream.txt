@@ -1,0 +1,16 @@
+Vanilla 
+ 0 
+
+ Strawberry 
+ 0 
+
+ Chocolate 
+ 1 
+
+ Mint Chip 
+ 2 
+
+ Rocky Road 
+ 9 
+
+ 
